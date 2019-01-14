@@ -1,0 +1,10 @@
+body {
+  padding: 50px;
+  font: 14px setofont, Helvetica, Arial, sans-serif;
+}
+
+@font-face {
+  font-family:"XXX";
+  src: url('../setofont.ttf') format("setofont");
+}
+
